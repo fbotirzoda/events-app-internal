@@ -15,7 +15,7 @@ CREATE TABLE events(
 
 SHOW TABLES;
 
-INSERT INTO events (title, description, location) VALUES ('Pet Show', 'Super-fun with furry friends!', 'Dog Park');
+INSERT INTO events (title, description, location) VALUES ('Pet Show', 'Super-fun with furry friends!', 'Dog Park', 'Dog Academy');
 
 INSERT INTO events (title,  description, location) VALUES ('Company Picnic', 'Come for free food and drinks.', 'At the lake');
 
