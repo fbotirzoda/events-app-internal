@@ -16,6 +16,7 @@ const mockEvents = [
             return { title: 'another firestore event', id: 2, description: 'something even cooler', location: 'Johns pizza', likes: 0 };
         }
     },
+ 
 
 ];
 
